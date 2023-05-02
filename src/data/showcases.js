@@ -215,6 +215,15 @@ export const Tags = {
 // Provide pure NFT projects only get the tag NFT, not "tokens"
 export const Showcases = [
   {
+    title: "Kalyx",
+    description:
+      "Decentralized CFD trading platform on Cardano",
+    preview: require("./showcase/kalyx.png"),
+    website: "https://www.kalyx.io",
+    source: null,
+    tags: ["favorite", "marketplace", "metadata"],
+  },
+  {
     title: "Cardano Kidz",
     description:
       "Each of these unique Limited Edition designs is being minted on the Cardano Blockchain as a Non Fungible Token (NFT).",
